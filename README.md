@@ -12,16 +12,6 @@
 
 [27/07/2026 14:50] Курамбойев: <div align="center">
 
-# 🚀 Shohjahon Quramboyev  
-### 💻 Frontend Developer | React Specialist | UI/UX Enthusiast  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Clean+Code+Lover;Always+Learning+New+Things" />
-</div>
-
----
-
-## 🧠 About Me
-
 const developer = {
   name: "Shohjahon",
   role: "Frontend Developer",
